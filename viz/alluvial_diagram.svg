@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 775 580" style="enable-background:new 0 0 775 580;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#5E4FA2;stroke-width:29.2754;}
+	.st2{fill:none;stroke:#5E4FA2;stroke-width:26.8357;}
+	.st3{fill:none;stroke:#4478B2;stroke-width:4.8792;}
+	.st4{fill:none;stroke:#4BA0B1;stroke-width:2.4396;}
+	.st5{fill:none;stroke:#4F63AB;stroke-width:36.5942;}
+	.st6{fill:none;stroke:#5E4FA2;stroke-width:12.1981;}
+	.st7{fill:none;stroke:#5E4FA2;stroke-width:4.8792;}
+	.st8{fill:none;stroke:#4F63AB;stroke-width:9.7585;}
+	.st9{fill:none;stroke:#4F63AB;stroke-width:2.4396;}
+	.st10{fill:none;stroke:#5E4FA2;stroke-width:7.3188;}
+	.st11{fill:none;stroke:#5E4FA2;stroke-width:41.4734;}
+	.st12{fill:none;stroke:#438CB4;stroke-width:14.6377;}
+	.st13{fill:none;stroke:#4F63AB;stroke-width:24.3961;}
+	.st14{fill:none;stroke:#4F63AB;stroke-width:4.8792;}
+	.st15{fill:none;stroke:#5CB3AC;stroke-width:2.4396;}
+	.st16{fill:none;stroke:#4BA0B1;stroke-width:4.8792;}
+	.st17{fill:none;stroke:#5CB3AC;stroke-width:4.8792;}
+	.st18{fill:none;stroke:#4478B2;stroke-width:2.4396;}
+	.st19{fill:none;stroke:#438CB4;stroke-width:9.7585;}
+	.st20{fill:none;stroke:#4478B2;stroke-width:7.3188;}
+	.st21{fill:none;stroke:#438CB4;stroke-width:4.8792;}
+	.st22{fill:none;stroke:#4F63AB;stroke-width:7.3188;}
+	.st23{fill:none;stroke:#438CB4;stroke-width:2.4396;}
+	.st24{fill:none;stroke:#5E4FA2;stroke-width:9.7585;}
+	.st25{fill:none;stroke:#5E4FA2;stroke-width:17.0773;}
+	.st26{fill:none;stroke:#4F63AB;stroke-width:17.0773;}
+	.st27{fill:none;stroke:#5E4FA2;stroke-width:2.4396;}
+	.st28{fill:none;stroke:#CCEA9F;stroke-width:2.4396;}
+	.st29{fill:none;stroke:#72C3A7;stroke-width:2.4396;}
+	.st30{fill:none;stroke:#FDF2A8;stroke-width:2.4396;}
+	.st31{fill:none;stroke:#EC6449;stroke-width:2.4396;}
+	.st32{fill:none;stroke:#72C3A7;stroke-width:4.8792;}
+	.st33{fill:none;stroke:#9E0142;stroke-width:7.3188;}
+	.st34{fill:none;stroke:#CCEA9F;stroke-width:4.8792;}
+	.st35{fill:none;stroke:#B11746;stroke-width:4.8792;}
+	.st36{fill:none;stroke:#72C3A7;stroke-width:17.0773;}
+	.st37{fill:none;stroke:#FDCA79;stroke-width:2.4396;}
+	.st38{fill:none;stroke:#FBF8B0;stroke-width:9.7585;}
+	.st39{fill:none;stroke:#F3784C;stroke-width:2.4396;}
+	.st40{fill:none;stroke:#FBF8B0;stroke-width:7.3188;}
+	.st41{fill:none;stroke:#89CFA5;stroke-width:2.4396;}
+	.st42{fill:none;stroke:#A0D9A3;stroke-width:2.4396;}
+	.st43{fill:none;stroke:#DDF1A0;stroke-width:4.8792;}
+	.st44{fill:none;stroke:#FEE89A;stroke-width:2.4396;}
+	.st45{fill:none;stroke:#72C3A7;stroke-width:12.1981;}
+	.st46{fill:none;stroke:#FBF8B0;stroke-width:12.1981;}
+	.st47{fill:none;stroke:#FEDA89;stroke-width:2.4396;}
+	.st48{fill:none;stroke:#FBF8B0;stroke-width:4.8792;}
+	.st49{fill:none;stroke:#CCEA9F;stroke-width:9.7585;}
+	.st50{fill:none;stroke:#FBF8B0;stroke-width:2.4396;}
+	.st51{fill:none;stroke:#D43F4B;stroke-width:2.4396;}
+	.st52{fill:none;stroke:#FDB76B;stroke-width:4.8792;}
+	.st53{fill:none;stroke:#F88E53;stroke-width:2.4396;}
+	.st54{fill:none;stroke:#FDB76B;stroke-width:2.4396;}
+	.st55{fill:none;stroke:#F5FAAD;stroke-width:2.4396;}
+	.st56{fill:none;stroke:#F88E53;stroke-width:4.8792;}
+	.st57{fill:none;stroke:#9E0142;stroke-width:2.4396;}
+	.st58{fill:none;stroke:#C42C4A;stroke-width:2.4396;}
+	.st59{fill:none;stroke:#FEE89A;stroke-width:9.7585;}
+	.st60{fill:none;stroke:#E1524A;stroke-width:2.4396;}
+	.st61{fill:none;stroke:#B11746;stroke-width:2.4396;}
+	.st62{fill:none;stroke:#CCEA9F;stroke-width:7.3188;}
+	.st63{fill:none;stroke:#EBF7A6;stroke-width:4.8792;}
+	.st64{fill:none;stroke:#FDB76B;stroke-width:7.3188;}
+	.st65{fill:none;stroke:#DDF1A0;stroke-width:2.4396;}
+	.st66{fill:none;stroke:#EBF7A6;stroke-width:2.4396;}
+	.st67{fill:none;stroke:#FBA35E;stroke-width:2.4396;}
+	.st68{fill:none;stroke:#B7E2A1;stroke-width:2.4396;}
+	.st69{font-family:'Arial-BoldMT';}
+	.st70{font-size:7.0467px;}
+	.st71{fill:#7B7B7B;}
+	.st72{font-size:8.456px;}
+</style>
+<rect id="background" class="st0" width="775" height="580"/>
+<g id="visualization" transform="translate(10,20)">
+	<g>
+		<rect x="382.4" y="72.9" width="3.7" height="1.7"/>
+		<rect x="382.4" y="78.2" width="3.7" height="1.7"/>
+		<rect x="382.4" y="83.4" width="3.7" height="1.7"/>
+		<rect x="729.5" y="46.5" width="3.7" height="1.7"/>
+		<rect x="729.5" y="51.8" width="3.7" height="1.7"/>
+		<rect x="729.5" y="57" width="3.7" height="1.7"/>
+		<rect x="729.5" y="62.2" width="3.7" height="1.7"/>
+		<rect x="729.5" y="67.5" width="3.7" height="1.7"/>
+		<rect x="729.5" y="72.7" width="3.7" height="1.7"/>
+		<rect x="382.4" y="88.7" width="3.7" height="3.4"/>
+		<rect x="382.4" y="95.6" width="3.7" height="3.4"/>
+		<rect x="729.5" y="78" width="3.7" height="3.4"/>
+		<rect x="729.5" y="84.9" width="3.7" height="3.4"/>
+		<rect x="729.5" y="91.9" width="3.7" height="3.4"/>
+		<rect x="729.5" y="98.8" width="3.7" height="3.4"/>
+		<rect x="729.5" y="105.8" width="3.7" height="3.4"/>
+		<rect x="729.5" y="112.8" width="3.7" height="3.4"/>
+		<rect x="729.5" y="119.7" width="3.7" height="3.4"/>
+		<rect x="382.4" y="102.6" width="3.7" height="5.2"/>
+		<rect x="382.4" y="111.3" width="3.7" height="5.2"/>
+		<rect x="729.5" y="126.7" width="3.7" height="5.2"/>
+		<rect x="729.5" y="135.4" width="3.7" height="5.2"/>
+		<rect x="729.5" y="144.1" width="3.7" height="5.2"/>
+		<rect x="729.5" y="152.7" width="3.7" height="5.2"/>
+		<rect x="729.5" y="161.4" width="3.7" height="5.2"/>
+		<rect x="382.4" y="119.9" width="3.7" height="6.9"/>
+		<rect x="382.4" y="130.3" width="3.7" height="6.9"/>
+		<rect x="382.4" y="140.7" width="3.7" height="6.9"/>
+		<rect x="729.5" y="170.1" width="3.7" height="6.9"/>
+		<rect x="729.5" y="180.5" width="3.7" height="6.9"/>
+		<rect x="729.5" y="190.9" width="3.7" height="6.9"/>
+		<rect x="729.5" y="201.3" width="3.7" height="6.9"/>
+		<rect x="382.4" y="151.1" width="3.7" height="8.6"/>
+		<rect x="382.4" y="163.3" width="3.7" height="8.6"/>
+		<rect x="382.4" y="175.4" width="3.7" height="8.6"/>
+		<rect x="729.5" y="211.7" width="3.7" height="8.6"/>
+		<rect x="382.4" y="187.5" width="3.7" height="10.3"/>
+		<rect x="729.5" y="223.8" width="3.7" height="10.3"/>
+		<rect x="729.5" y="237.7" width="3.7" height="10.3"/>
+		<rect x="729.5" y="251.5" width="3.7" height="10.3"/>
+		<rect x="382.4" y="201.3" width="3.7" height="12"/>
+		<rect x="729.5" y="265.3" width="3.7" height="12"/>
+		<rect x="729.5" y="280.9" width="3.7" height="12"/>
+		<rect x="729.5" y="296.4" width="3.7" height="12"/>
+		<rect x="729.5" y="312" width="3.7" height="13.8"/>
+		<rect x="382.4" y="216.9" width="3.7" height="15.5"/>
+		<rect x="35.2" y="102.9" width="3.7" height="15.5"/>
+		<rect x="729.5" y="329.3" width="3.7" height="15.5"/>
+		<rect x="729.5" y="348.3" width="3.7" height="15.5"/>
+		<rect x="382.4" y="235.9" width="3.7" height="17.2"/>
+		<rect x="382.4" y="256.6" width="3.7" height="17.2"/>
+		<rect x="729.5" y="367.3" width="3.7" height="17.2"/>
+		<rect x="35.2" y="121.9" width="3.7" height="18.9"/>
+		<rect x="382.4" y="277.3" width="3.7" height="18.9"/>
+		<rect x="729.5" y="388" width="3.7" height="18.9"/>
+		<rect x="729.5" y="410.4" width="3.7" height="20.6"/>
+		<rect x="729.5" y="434.6" width="3.7" height="22.3"/>
+		<rect x="35.2" y="144.3" width="3.7" height="25.8"/>
+		<rect x="729.5" y="460.4" width="3.7" height="25.8"/>
+		<rect x="35.2" y="173.6" width="3.7" height="32.7"/>
+		<rect x="382.4" y="299.8" width="3.7" height="34.4"/>
+		<rect x="382.4" y="337.7" width="3.7" height="43"/>
+		<rect x="729.5" y="489.8" width="3.7" height="43"/>
+		<rect x="382.4" y="384.2" width="3.7" height="51.6"/>
+		<rect x="382.4" y="439.3" width="3.7" height="67"/>
+		<rect x="35.2" y="209.8" width="3.7" height="120.3"/>
+		<rect x="35.2" y="333.7" width="3.7" height="142.7"/>
+	</g>
+	<g>
+		<g>
+			<path class="st1" d="M38.9,417.9c171.7,0,171.7-47.6,343.5-47.6"/>
+		</g>
+		<g>
+			<path class="st2" d="M38.9,437.7c171.7,0,171.7-11.4,343.5-11.4"/>
+		</g>
+		<g>
+			<path class="st3" d="M38.9,159.8c171.7,0,171.7,183,343.5,183"/>
+		</g>
+		<g>
+			<path class="st4" d="M38.9,122.7c171.7,0,171.7-33.2,343.5-33.2"/>
+		</g>
+		<g>
+			<path class="st5" d="M38.9,300.1c171.7,0,171.7,103.9,343.5,103.9"/>
+		</g>
+		<g>
+			<path class="st6" d="M38.9,372.4c171.7,0,171.7-144.3,343.5-144.3"/>
+		</g>
+		<g>
+			<path class="st7" d="M38.9,362.9c171.7,0,171.7-166.8,343.5-166.8"/>
+		</g>
+		<g>
+			<path class="st8" d="M38.9,254.5c171.7,0,171.7-8.3,343.5-8.3"/>
+		</g>
+		<g>
+			<path class="st9" d="M38.9,212.4c171.7,0,171.7-121.1,343.5-121.1"/>
+		</g>
+		<g>
+			<path class="st10" d="M38.9,341.4c171.7,0,171.7-217.2,343.5-217.2"/>
+		</g>
+		<g>
+			<path class="st11" d="M38.9,461.7c171.7,0,171.7,29.9,343.5,29.9"/>
+		</g>
+		<g>
+			<path class="st7" d="M38.9,337.1c171.7,0,171.7-239.8,343.5-239.8"/>
+		</g>
+		<g>
+			<path class="st12" d="M38.9,201.1c171.7,0,171.7,253.6,343.5,253.6"/>
+		</g>
+		<g>
+			<path class="st9" d="M38.9,233c171.7,0,171.7-77.6,343.5-77.6"/>
+		</g>
+		<g>
+			<path class="st13" d="M38.9,321.6c171.7,0,171.7,146.9,343.5,146.9"/>
+		</g>
+		<g>
+			<path class="st14" d="M38.9,235.6c171.7,0,171.7-70.6,343.5-70.6"/>
+		</g>
+		<g>
+			<path class="st8" d="M38.9,261.4c171.7,0,171.7,0.4,343.5,0.4"/>
+		</g>
+		<g>
+			<path class="st14" d="M38.9,266.5c171.7,0,171.7,21.1,343.5,21.1"/>
+		</g>
+		<g>
+			<path class="st15" d="M38.9,114.1c171.7,0,171.7,271,343.5,271"/>
+		</g>
+		<g>
+			<path class="st10" d="M38.9,355.2c171.7,0,171.7-185.9,343.5-185.9"/>
+		</g>
+		<g>
+			<path class="st7" d="M38.9,359.5c171.7,0,171.7-177.2,343.5-177.2"/>
+		</g>
+		<g>
+			<path class="st16" d="M38.9,139.1c171.7,0,171.7,305.3,343.5,305.3"/>
+		</g>
+		<g>
+			<path class="st17" d="M38.9,116.6c171.7,0,171.7,324.3,343.5,324.3"/>
+		</g>
+		<g>
+			<path class="st15" d="M38.9,103.7c171.7,0,171.7-29.9,343.5-29.9"/>
+		</g>
+		<g>
+			<path class="st16" d="M38.9,133.9c171.7,0,171.7,171,343.5,171"/>
+		</g>
+		<g>
+			<path class="st18" d="M38.9,145.2c171.7,0,171.7-14,343.5-14"/>
+		</g>
+		<g>
+			<path class="st19" d="M38.9,189.1c171.7,0,171.7,122.7,343.5,122.7"/>
+		</g>
+		<g>
+			<path class="st20" d="M38.9,164.1c171.7,0,171.7,224.4,343.5,224.4"/>
+		</g>
+		<g>
+			<path class="st7" d="M38.9,350.9c171.7,0,171.7-192.8,343.5-192.8"/>
+		</g>
+		<g>
+			<path class="st21" d="M38.9,194.3c171.7,0,171.7,152,343.5,152"/>
+		</g>
+		<g>
+			<path class="st9" d="M38.9,226.1c171.7,0,171.7-93.2,343.5-93.2"/>
+		</g>
+		<g>
+			<path class="st14" d="M38.9,249.3c171.7,0,171.7-27.3,343.5-27.3"/>
+		</g>
+		<g>
+			<path class="st22" d="M38.9,215.8c171.7,0,171.7-110.7,343.5-110.7"/>
+		</g>
+		<g>
+			<path class="st7" d="M38.9,345.7c171.7,0,171.7-210.2,343.5-210.2"/>
+		</g>
+		<g>
+			<path class="st22" d="M38.9,243.3c171.7,0,171.7-51.5,343.5-51.5"/>
+		</g>
+		<g>
+			<path class="st17" d="M38.9,109.8c171.7,0,171.7,191.7,343.5,191.7"/>
+		</g>
+		<g>
+			<path class="st4" d="M38.9,136.5c171.7,0,171.7,203.7,343.5,203.7"/>
+		</g>
+		<g>
+			<path class="st22" d="M38.9,221c171.7,0,171.7-107.1,343.5-107.1"/>
+		</g>
+		<g>
+			<path class="st23" d="M38.9,174.5c171.7,0,171.7,1.8,343.5,1.8"/>
+		</g>
+		<g>
+			<path class="st24" d="M38.9,392.1c171.7,0,171.7-99.3,343.5-99.3"/>
+		</g>
+		<g>
+			<path class="st16" d="M38.9,130.5c171.7,0,171.7,148.6,343.5,148.6"/>
+		</g>
+		<g>
+			<path class="st25" d="M38.9,401.6c171.7,0,171.7-73.5,343.5-73.5"/>
+		</g>
+		<g>
+			<path class="st18" d="M38.9,146.9c171.7,0,171.7,6.8,343.5,6.8"/>
+		</g>
+		<g>
+			<path class="st22" d="M38.9,229.6c171.7,0,171.7-86.3,343.5-86.3"/>
+		</g>
+		<g>
+			<path class="st15" d="M38.9,112.3c171.7,0,171.7,226.2,343.5,226.2"/>
+		</g>
+		<g>
+			<path class="st9" d="M38.9,224.4c171.7,0,171.7-103.6,343.5-103.6"/>
+		</g>
+		<g>
+			<path class="st8" d="M38.9,271.7c171.7,0,171.7,47,343.5,47"/>
+		</g>
+		<g>
+			<path class="st4" d="M38.9,127.9c171.7,0,171.7,108.9,343.5,108.9"/>
+		</g>
+		<g>
+			<path class="st26" d="M38.9,281.2c171.7,0,171.7,72.8,343.5,72.8"/>
+		</g>
+		<g>
+			<path class="st3" d="M38.9,154.6c171.7,0,171.7,127.9,343.5,127.9"/>
+		</g>
+		<g>
+			<path class="st27" d="M38.9,348.3c171.7,0,171.7-201.5,343.5-201.5"/>
+		</g>
+		<g>
+			<path class="st18" d="M38.9,148.6c171.7,0,171.7,58.7,343.5,58.7"/>
+		</g>
+		<g>
+			<path class="st23" d="M38.9,177.9c171.7,0,171.7,41.6,343.5,41.6"/>
+		</g>
+		<g>
+			<path class="st7" d="M38.9,378.4c171.7,0,171.7-127,343.5-127"/>
+		</g>
+		<g>
+			<path class="st6" d="M38.9,384.4c171.7,0,171.7-114.9,343.5-114.9"/>
+		</g>
+		<g>
+			<path class="st23" d="M38.9,183.1c171.7,0,171.7,74.4,343.5,74.4"/>
+		</g>
+		<g>
+			<path class="st21" d="M38.9,180.5c171.7,0,171.7,60.6,343.5,60.6"/>
+		</g>
+		<g>
+			<path class="st14" d="M38.9,239c171.7,0,171.7-60.2,343.5-60.2"/>
+		</g>
+		<g>
+			<path class="st18" d="M38.9,157.2c171.7,0,171.7,150.3,343.5,150.3"/>
+		</g>
+		<g>
+			<path class="st23" d="M38.9,184.8c171.7,0,171.7,100.3,343.5,100.3"/>
+		</g>
+		<g>
+			<path class="st9" d="M38.9,246.8c171.7,0,171.7-37.7,343.5-37.7"/>
+		</g>
+		<g>
+			<path class="st9" d="M38.9,210.7C210.6,210.7,210.6,79,382.4,79"/>
+		</g>
+		<g>
+			<path class="st27" d="M38.9,334.5c171.7,0,171.7-250.3,343.5-250.3"/>
+		</g>
+		<g>
+			<path class="st7" d="M38.9,366.3c171.7,0,171.7-154.7,343.5-154.7"/>
+		</g>
+		<g>
+			<path class="st4" d="M38.9,126.2c171.7,0,171.7,79.5,343.5,79.5"/>
+		</g>
+		<g>
+			<path class="st18" d="M38.9,152c171.7,0,171.7,86.4,343.5,86.4"/>
+		</g>
+		<g>
+			<path class="st17" d="M38.9,106.3c171.7,0,171.7,96.7,343.5,96.7"/>
+		</g>
+		<g>
+			<path class="st3" d="M38.9,168.4c171.7,0,171.7,279.5,343.5,279.5"/>
+		</g>
+		<g>
+			<path class="st4" d="M38.9,124.5c171.7,0,171.7,27.5,343.5,27.5"/>
+		</g>
+		<g>
+			<path class="st23" d="M38.9,176.2c171.7,0,171.7,12.2,343.5,12.2"/>
+		</g>
+		<g>
+			<path class="st18" d="M38.9,150.3c171.7,0,171.7,67.4,343.5,67.4"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,354c171.7,0,171.7-13.5,343.5-13.5"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,385c171.7,0,171.7-306.2,343.5-306.2"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,374.6c171.7,0,171.7,102.2,343.5,102.2"/>
+		</g>
+		<g>
+			<path class="st30" d="M386,89.5c171.7,0,171.7,81.4,343.5,81.4"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,391.9c171.7,0,171.7-207.1,343.5-207.1"/>
+		</g>
+		<g>
+			<path class="st31" d="M386,229.8c171.7,0,171.7,105.5,343.5,105.5"/>
+		</g>
+		<g>
+			<path class="st32" d="M386,387.6c171.7,0,171.7-257.5,343.5-257.5"/>
+		</g>
+		<g>
+			<path class="st33" d="M386,195.2c171.7,0,171.7,307.4,343.5,307.4"/>
+		</g>
+		<g>
+			<path class="st34" d="M386,348c171.7,0,171.7-79.2,343.5-79.2"/>
+		</g>
+		<g>
+			<path class="st35" d="M386,251.4c171.7,0,171.7,259,343.5,259"/>
+		</g>
+		<g>
+			<path class="st36" d="M386,424.6c171.7,0,171.7,22.9,343.5,22.9"/>
+		</g>
+		<g>
+			<path class="st32" d="M386,415.1c171.7,0,171.7-11.7,343.5-11.7"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,403.9c171.7,0,171.7-61.8,343.5-61.8"/>
+		</g>
+		<g>
+			<path class="st30" d="M386,91.2c171.7,0,171.7,190.5,343.5,190.5"/>
+		</g>
+		<g>
+			<path class="st37" d="M386,126c171.7,0,171.7,335.3,343.5,335.3"/>
+		</g>
+		<g>
+			<path class="st38" d="M386,496c171.7,0,171.7-13.2,343.5-13.2"/>
+		</g>
+		<g>
+			<path class="st39" d="M386,98.2c171.7,0,171.7,250.9,343.5,250.9"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,417.7c171.7,0,171.7,3.9,343.5,3.9"/>
+		</g>
+		<g>
+			<path class="st40" d="M386,464.2c171.7,0,171.7-189.4,343.5-189.4"/>
+		</g>
+		<g>
+			<path class="st41" d="M386,158.9c171.7,0,171.7,338.6,343.5,338.6"/>
+		</g>
+		<g>
+			<path class="st38" d="M386,502.9c171.7,0,171.7,26.4,343.5,26.4"/>
+		</g>
+		<g>
+			<path class="st42" d="M386,171c171.7,0,171.7,328.2,343.5,328.2"/>
+		</g>
+		<g>
+			<path class="st43" d="M386,270.4c171.7,0,171.7,121.1,343.5,121.1"/>
+		</g>
+		<g>
+			<path class="st44" d="M386,290.2c171.7,0,171.7,103.8,343.5,103.8"/>
+		</g>
+		<g>
+			<path class="st45" d="M386,409.1c171.7,0,171.7-49.6,343.5-49.6"/>
+		</g>
+		<g>
+			<path class="st46" d="M386,484.8c171.7,0,171.7-58.1,343.5-58.1"/>
+		</g>
+		<g>
+			<path class="st34" d="M386,370.3c171.7,0,171.7,48.7,343.5,48.7"/>
+		</g>
+		<g>
+			<path class="st42" d="M386,165.8c171.7,0,171.7,166,343.5,166"/>
+		</g>
+		<g>
+			<path class="st47" d="M386,181.4c171.7,0,171.7,152.2,343.5,152.2"/>
+		</g>
+		<g>
+			<path class="st48" d="M386,477.1c171.7,0,171.7-94.3,343.5-94.3"/>
+		</g>
+		<g>
+			<path class="st49" d="M386,360c171.7,0,171.7,17.6,343.5,17.6"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,443.6c171.7,0,171.7-356.1,343.5-356.1"/>
+		</g>
+		<g>
+			<path class="st51" d="M386,73.8c171.7,0,171.7,62.4,343.5,62.4"/>
+		</g>
+		<g>
+			<path class="st52" d="M386,332.4c171.7,0,171.7,183.1,343.5,183.1"/>
+		</g>
+		<g>
+			<path class="st53" d="M386,136.4c171.7,0,171.7,357.7,343.5,357.7"/>
+		</g>
+		<g>
+			<path class="st54" d="M386,300.6c171.7,0,171.7-206.1,343.5-206.1"/>
+		</g>
+		<g>
+			<path class="st48" d="M386,451.3c171.7,0,171.7-255.2,343.5-255.2"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,393.6c171.7,0,171.7-200.1,343.5-200.1"/>
+		</g>
+		<g>
+			<path class="st41" d="M386,157.2c171.7,0,171.7,305.9,343.5,305.9"/>
+		</g>
+		<g>
+			<path class="st52" d="M386,315.2c171.7,0,171.7-13.6,343.5-13.6"/>
+		</g>
+		<g>
+			<path class="st39" d="M386,96.5c171.7,0,171.7,233.7,343.5,233.7"/>
+		</g>
+		<g>
+			<path class="st47" d="M386,178c171.7,0,171.7-33,343.5-33"/>
+		</g>
+		<g>
+			<path class="st37" d="M386,124.2c171.7,0,171.7,100.4,343.5,100.4"/>
+		</g>
+		<g>
+			<path class="st42" d="M386,169.3c171.7,0,171.7,267.9,343.5,267.9"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,352.3c171.7,0,171.7-29.1,343.5-29.1"/>
+		</g>
+		<g>
+			<path class="st53" d="M386,134.6c171.7,0,171.7,300.8,343.5,300.8"/>
+		</g>
+		<g>
+			<path class="st31" d="M386,231.5c171.7,0,171.7,276.3,343.5,276.3"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,345.4c171.7,0,171.7-112.1,343.5-112.1"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,472.8c171.7,0,171.7-165.2,343.5-165.2"/>
+		</g>
+		<g>
+			<path class="st55" d="M386,106.9c171.7,0,171.7,190.4,343.5,190.4"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,459c171.7,0,171.7-211.9,343.5-211.9"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,447c171.7,0,171.7-307.3,343.5-307.3"/>
+		</g>
+		<g>
+			<path class="st56" d="M386,132.1c171.7,0,171.7,181.7,343.5,181.7"/>
+		</g>
+		<g>
+			<path class="st57" d="M386,188.4c171.7,0,171.7-95.6,343.5-95.6"/>
+		</g>
+		<g>
+			<path class="st55" d="M386,103.4c171.7,0,171.7,77.9,343.5,77.9"/>
+		</g>
+		<g>
+			<path class="st52" d="M386,323.8c171.7,0,171.7,91.8,343.5,91.8"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,338.5c171.7,0,171.7-291.2,343.5-291.2"/>
+		</g>
+		<g>
+			<path class="st58" d="M386,115.6c171.7,0,171.7,376.8,343.5,376.8"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,441.8c171.7,0,171.7-361.3,343.5-361.3"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,355.7c171.7,0,171.7-1.4,343.5-1.4"/>
+		</g>
+		<g>
+			<path class="st47" d="M386,183.1c171.7,0,171.7,281.6,343.5,281.6"/>
+		</g>
+		<g>
+			<path class="st59" d="M386,284.2c171.7,0,171.7-55.2,343.5-55.2"/>
+		</g>
+		<g>
+			<path class="st44" d="M386,279.9c171.7,0,171.7-105.5,343.5-105.5"/>
+		</g>
+		<g>
+			<path class="st41" d="M386,155.4c171.7,0,171.7,195.4,343.5,195.4"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,479.7c171.7,0,171.7-73.6,343.5-73.6"/>
+		</g>
+		<g>
+			<path class="st60" d="M386,146.8c171.7,0,171.7,349,343.5,349"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,397.1c171.7,0,171.7-137.8,343.5-137.8"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,340.2c171.7,0,171.7-287.6,343.5-287.6"/>
+		</g>
+		<g>
+			<path class="st37" d="M386,122.5c171.7,0,171.7,69.2,343.5,69.2"/>
+		</g>
+		<g>
+			<path class="st44" d="M386,295.4c171.7,0,171.7,217.6,343.5,217.6"/>
+		</g>
+		<g>
+			<path class="st61" d="M386,241.9c171.7,0,171.7,45,343.5,45"/>
+		</g>
+		<g>
+			<path class="st32" d="M386,434c171.7,0,171.7,90.1,343.5,90.1"/>
+		</g>
+		<g>
+			<path class="st52" d="M386,318.7c171.7,0,171.7,1.9,343.5,1.9"/>
+		</g>
+		<g>
+			<path class="st62" d="M386,366c171.7,0,171.7,33.1,343.5,33.1"/>
+		</g>
+		<g>
+			<path class="st40" d="M386,469.3c171.7,0,171.7-179,343.5-179"/>
+		</g>
+		<g>
+			<path class="st44" d="M386,293.7c171.7,0,171.7,176.2,343.5,176.2"/>
+		</g>
+		<g>
+			<path class="st60" d="M386,141.6c171.7,0,171.7-83.8,343.5-83.8"/>
+		</g>
+		<g>
+			<path class="st63" d="M386,209.9c171.7,0,171.7,257.4,343.5,257.4"/>
+		</g>
+		<g>
+			<path class="st64" d="M386,328.1c171.7,0,171.7,145.2,343.5,145.2"/>
+		</g>
+		<g>
+			<path class="st31" d="M386,219.5c171.7,0,171.7-133.7,343.5-133.7"/>
+		</g>
+		<g>
+			<path class="st35" d="M386,246.2c171.7,0,171.7,71,343.5,71"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,372.9c171.7,0,171.7,67.7,343.5,67.7"/>
+		</g>
+		<g>
+			<path class="st65" d="M386,272.9c171.7,0,171.7,140.1,343.5,140.1"/>
+		</g>
+		<g>
+			<path class="st62" d="M386,378.1c171.7,0,171.7,141.8,343.5,141.8"/>
+		</g>
+		<g>
+			<path class="st65" d="M386,260.9c171.7,0,171.7-103.9,343.5-103.9"/>
+		</g>
+		<g>
+			<path class="st35" d="M386,239.3c171.7,0,171.7,15.6,343.5,15.6"/>
+		</g>
+		<g>
+			<path class="st43" d="M386,266.9c171.7,0,171.7,103.8,343.5,103.8"/>
+		</g>
+		<g>
+			<path class="st47" d="M386,179.7c171.7,0,171.7,105.5,343.5,105.5"/>
+		</g>
+		<g>
+			<path class="st40" d="M386,455.6c171.7,0,171.7-237.9,343.5-237.9"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,402.2c171.7,0,171.7-77.3,343.5-77.3"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,474.5c171.7,0,171.7-130.6,343.5-130.6"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,398.8c171.7,0,171.7-127.4,343.5-127.4"/>
+		</g>
+		<g>
+			<path class="st54" d="M386,302.3c171.7,0,171.7-155.7,343.5-155.7"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,343.7c171.7,0,171.7-195.3,343.5-195.3"/>
+		</g>
+		<g>
+			<path class="st66" d="M386,212.5c171.7,0,171.7,293.6,343.5,293.6"/>
+		</g>
+		<g>
+			<path class="st67" d="M386,79c171.7,0,171.7,411.6,343.5,411.6"/>
+		</g>
+		<g>
+			<path class="st44" d="M386,291.9c171.7,0,171.7,146.9,343.5,146.9"/>
+		</g>
+		<g>
+			<path class="st43" d="M386,263.5c171.7,0,171.7,74.4,343.5,74.4"/>
+		</g>
+		<g>
+			<path class="st60" d="M386,145c171.7,0,171.7,38,343.5,38"/>
+		</g>
+		<g>
+			<path class="st68" d="M386,84.3c171.7,0,171.7,128.3,343.5,128.3"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,342c171.7,0,171.7-214.4,343.5-214.4"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,448.7c171.7,0,171.7-262.2,343.5-262.2"/>
+		</g>
+		<g>
+			<path class="st48" d="M386,490.8c171.7,0,171.7-35.6,343.5-35.6"/>
+		</g>
+		<g>
+			<path class="st41" d="M386,153.7c171.7,0,171.7,60.6,343.5,60.6"/>
+		</g>
+		<g>
+			<path class="st61" d="M386,236.8c171.7,0,171.7-98.8,343.5-98.8"/>
+		</g>
+		<g>
+			<path class="st44" d="M386,278.2c171.7,0,171.7-112.5,343.5-112.5"/>
+		</g>
+		<g>
+			<path class="st60" d="M386,143.3c171.7,0,171.7-80.2,343.5-80.2"/>
+		</g>
+		<g>
+			<path class="st31" d="M386,226.4c171.7,0,171.7,15.6,343.5,15.6"/>
+		</g>
+		<g>
+			<path class="st28" d="M386,350.6c171.7,0,171.7-46.4,343.5-46.4"/>
+		</g>
+		<g>
+			<path class="st63" d="M386,203.1c171.7,0,171.7-48.6,343.5-48.6"/>
+		</g>
+		<g>
+			<path class="st31" d="M386,224.6c171.7,0,171.7-60.6,343.5-60.6"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,460.7c171.7,0,171.7-199.8,343.5-199.8"/>
+		</g>
+		<g>
+			<path class="st42" d="M386,164.1c171.7,0,171.7-1.8,343.5-1.8"/>
+		</g>
+		<g>
+			<path class="st65" d="M386,257.5c171.7,0,171.7-156,343.5-156"/>
+		</g>
+		<g>
+			<path class="st61" d="M386,243.6c171.7,0,171.7,55.4,343.5,55.4"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,390.2c171.7,0,171.7-214.1,343.5-214.1"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,431.4c171.7,0,171.7,47.1,343.5,47.1"/>
+		</g>
+		<g>
+			<path class="st52" d="M386,308.4c171.7,0,171.7-63.8,343.5-63.8"/>
+		</g>
+		<g>
+			<path class="st41" d="M386,152c171.7,0,171.7,20.7,343.5,20.7"/>
+		</g>
+		<g>
+			<path class="st57" d="M386,190.1c171.7,0,171.7,48.4,343.5,48.4"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,445.3c171.7,0,171.7-336.9,343.5-336.9"/>
+		</g>
+		<g>
+			<path class="st44" d="M386,288.5c171.7,0,171.7,84.8,343.5,84.8"/>
+		</g>
+		<g>
+			<path class="st42" d="M386,167.6c171.7,0,171.7,185,343.5,185"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,395.3c171.7,0,171.7-188,343.5-188"/>
+		</g>
+		<g>
+			<path class="st52" d="M386,304.9c171.7,0,171.7-100.2,343.5-100.2"/>
+		</g>
+		<g>
+			<path class="st66" d="M386,207.4c171.7,0,171.7,160.8,343.5,160.8"/>
+		</g>
+		<g>
+			<path class="st61" d="M386,248.8c171.7,0,171.7,140.1,343.5,140.1"/>
+		</g>
+		<g>
+			<path class="st54" d="M386,312.7c171.7,0,171.7-46.5,343.5-46.5"/>
+		</g>
+		<g>
+			<path class="st58" d="M386,112.1c171.7,0,171.7-12.4,343.5-12.4"/>
+		</g>
+		<g>
+			<path class="st47" d="M386,176.2c171.7,0,171.7-62.6,343.5-62.6"/>
+		</g>
+		<g>
+			<path class="st37" d="M386,120.8c171.7,0,171.7-0.2,343.5-0.2"/>
+		</g>
+		<g>
+			<path class="st31" d="M386,221.2c171.7,0,171.7-105.8,343.5-105.8"/>
+		</g>
+		<g>
+			<path class="st58" d="M386,113.8c171.7,0,171.7,88.3,343.5,88.3"/>
+		</g>
+		<g>
+			<path class="st31" d="M386,228.1c171.7,0,171.7,24.3,343.5,24.3"/>
+		</g>
+		<g>
+			<path class="st55" d="M386,105.2c171.7,0,171.7,178.3,343.5,178.3"/>
+		</g>
+		<g>
+			<path class="st54" d="M386,310.9c171.7,0,171.7-53.4,343.5-53.4"/>
+		</g>
+		<g>
+			<path class="st57" d="M386,191.8c171.7,0,171.7,219.5,343.5,219.5"/>
+		</g>
+		<g>
+			<path class="st31" d="M386,217.8c171.7,0,171.7-149.4,343.5-149.4"/>
+		</g>
+		<g>
+			<path class="st50" d="M386,440.1c171.7,0,171.7-366.5,343.5-366.5"/>
+		</g>
+		<g>
+			<path class="st66" d="M386,205.6c171.7,0,171.7,34.6,343.5,34.6"/>
+		</g>
+		<g>
+			<path class="st65" d="M386,259.2c171.7,0,171.7-152.5,343.5-152.5"/>
+		</g>
+		<g>
+			<path class="st54" d="M386,321.2c171.7,0,171.7,74.5,343.5,74.5"/>
+		</g>
+		<g>
+			<path class="st29" d="M386,400.5c171.7,0,171.7-94.6,343.5-94.6"/>
+		</g>
+		<g>
+			<path class="st31" d="M386,222.9c171.7,0,171.7-100.6,343.5-100.6"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1.0427 0 0 1 388.9771 73.429)" class="st69 st70">4.7</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 78.6717)" class="st69 st70">5.4</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 83.9139)" class="st69 st70">6.6</text>
+		<text transform="matrix(1.0427 0 0 1 637.5845 47.0042)" class="st69 st70">Santibañez Boric, Mónica</text>
+		<text transform="matrix(1.0427 0 0 1 650.2271 52.2464)" class="st69 st70">Ruiz Balart, Macarena</text>
+		<text transform="matrix(1.0427 0 0 1 652.272 57.4891)" class="st69 st70">Stange Marcus, Hans</text>
+		<text transform="matrix(1.0427 0 0 1 651.8775 62.7313)" class="st69 st70">Molina Oyarzún, Raúl</text>
+		<text transform="matrix(1.0427 0 0 1 642.0689 67.9739)" class="st69 st70">Silva Roquefort, Rebeca</text>
+		<text transform="matrix(1.0427 0 0 1 650.1089 73.2161)" class="st69 st70">Mora Briones, Alfredo</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 90.0159)" class="st69 st70">5.9</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 96.9778)" class="st69 st70">5.2</text>
+		<text transform="matrix(1.0427 0 0 1 645.0572 79.3182)" class="st69 st70">Vico Sánchez, Mauricio</text>
+		<text transform="matrix(1.0427 0 0 1 660.4517 86.2801)" class="st69 st70">Perelli Soto, Bruno</text>
+		<text transform="matrix(1.0427 0 0 1 637.9976 93.2415)" class="st69 st70">Lepe Muñoz, Juan Carlos</text>
+		<text transform="matrix(1.0427 0 0 1 654.7076 100.2034)" class="st69 st70">Perea Morales, René</text>
+		<text transform="matrix(1.0427 0 0 1 649.815 107.1648)" class="st69 st70">Méndez Olivares, Iván</text>
+		<text transform="matrix(1.0427 0 0 1 628.5836 114.1263)" class="st69 st70">Benavides Bermúdez, Paola</text>
+		<text transform="matrix(1.0427 0 0 1 654.0377 121.0882)" class="st69 st70">Jove Avilés, Trinidad</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 104.7986)" class="st69 st70">6.1</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 113.4798)" class="st69 st70">4.6</text>
+		<text transform="matrix(1.0427 0 0 1 649.8287 128.909)" class="st69 st70">Gómez Moya, Cristián</text>
+		<text transform="matrix(1.0427 0 0 1 659.2105 137.5897)" class="st69 st70">Reyes León, Daniel</text>
+		<text transform="matrix(1.0427 0 0 1 624.1177 146.2703)" class="st69 st70">Zorzano Betancourt, Osvaldo</text>
+		<text transform="matrix(1.0427 0 0 1 622.0757 154.951)" class="st69 st70">Maldonado de la Fuente, Felix</text>
+		<text transform="matrix(1.0427 0 0 1 613.8961 163.6321)" class="st69 st70">Pradenas Guentherodt, Gabriela</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 123.0198)" class="st69 st70">5.6</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 133.4197)" class="st69 st70">5.3</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 143.8196)" class="st69 st70">4.8</text>
+		<text transform="matrix(1.0427 0 0 1 649.9547 173.1722)" class="st69 st70">Tapia Reyes, Mauricio</text>
+		<text transform="matrix(1.0427 0 0 1 659.2213 183.5721)" class="st69 st70">Lares López, Lorna</text>
+		<text transform="matrix(1.0427 0 0 1 646.1588 193.972)" class="st69 st70">Nuñez Gutiérrez, Pablo</text>
+		<text transform="matrix(1.0427 0 0 1 643.1705 204.3714)" class="st69 st70">Marín Pacheco, Antonio</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 155.0789)" class="st69 st70">6.8</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 167.1976)" class="st69 st70">6.7</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 179.3167)" class="st69 st70">5.7</text>
+		<text transform="matrix(1.0427 0 0 1 626.5494 215.6312)" class="st69 st70">Pagueguy Fenner, Sebastián</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 192.2952)" class="st69 st70">4</text>
+		<text transform="matrix(1.0427 0 0 1 643.6802 228.6097)" class="st69 st70">Gatica Ramírez, Pamela</text>
+		<text transform="matrix(1.0427 0 0 1 635.9341 242.4476)" class="st69 st70">Morales Mujica, María Paz</text>
+		<text transform="matrix(1.0427 0 0 1 650.2349 256.2855)" class="st69 st70">Young Araya, Mariana</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 206.993)" class="st69 st70">6.2</text>
+		<text transform="matrix(1.0427 0 0 1 648.19 270.9832)" class="st69 st70">Osses Flores, Roberto</text>
+		<text transform="matrix(1.0427 0 0 1 636.7672 286.5403)" class="st69 st70">Donoso Cisternas, Sergio</text>
+		<text transform="matrix(1.0427 0 0 1 631.4498 302.0975)" class="st69 st70">De la Sotta Lazzerini, Paola</text>
+		<text transform="matrix(1.0427 0 0 1 643.7271 318.5145)" class="st69 st70">Soto Calquín, Leonardo</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 224.2689)" class="st69 st70">5</text>
+		<text transform="matrix(1.0427 0 0 1 41.8179 110.2542)" class="st69 st70">Diseñador</text>
+		<text transform="matrix(1.0427 0 0 1 646.9664 336.6502)" class="st69 st70">Cortez Orellana, Felipe</text>
+		<text transform="matrix(1.0427 0 0 1 631.8736 355.6458)" class="st69 st70">Castillo Espinoza, Eduardo</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 244.1243)" class="st69 st70">4.5</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 264.8387)" class="st69 st70">6.3</text>
+		<text transform="matrix(1.0427 0 0 1 654.733 375.5008)" class="st69 st70">Abud Carrillo, Jenny</text>
+		<text transform="matrix(1.0427 0 0 1 41.8179 130.9686)" class="st69 st70">Diseñador con mención Industrial y Servicios</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 286.4129)" class="st69 st70">5.8</text>
+		<text transform="matrix(1.0427 0 0 1 637.9761 397.0745)" class="st69 st70">Wechsler Pizarro, Andrea</text>
+		<text transform="matrix(1.0427 0 0 1 630.2369 420.3685)" class="st69 st70">Dueñas Santander, Rodrigo</text>
+		<text transform="matrix(1.0427 0 0 1 645.7427 445.3802)" class="st69 st70">Jacob Dazarola, Rubén</text>
+		<text transform="matrix(1.0427 0 0 1 41.8179 156.8406)" class="st69 st70">Diseñadora</text>
+		<text transform="matrix(1.0427 0 0 1 655.938 472.972)" class="st69 st70">Ode Saleh, Verónica</text>
+		<text transform="matrix(1.0427 0 0 1 41.8179 189.5892)" class="st69 st70">Diseñador con mención en Visualidad y Medios</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 316.5823)" class="st69 st70">5.5</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 358.7859)" class="st69 st70">6.5</text>
+		<text transform="matrix(1.0427 0 0 1 628.6119 510.8773)" class="st69 st70">Domínguez González, Pablo</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 409.5853)" class="st69 st70">7</text>
+		<text transform="matrix(1.0427 0 0 1 388.9771 472.4183)" class="st69 st70">6</text>
+		<text transform="matrix(1.0427 0 0 1 41.8179 269.6131)" class="st69 st70">Diseñadora con mención Industrial y Servicios</text>
+		<text transform="matrix(1.0427 0 0 1 41.8179 404.6497)" class="st69 st70">Diseñadora con mención en Visualidad y Medios</text>
+	</g>
+	<g>
+		<text transform="matrix(1.0427 0 0 1 353.8301 55.2333)" class="st71 st69 st72">nota_proyecto</text>
+		<text transform="matrix(1.0427 0 0 1 708.8281 28.8085)" class="st71 st69 st72">profe_guia</text>
+		<text transform="matrix(1.0427 0 0 1 6.347656e-02 85.1815)" class="st71 st69 st72">titulo_profesional</text>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Proyectos de Título</title>
+        <link href="css/style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <nav>
+            <a href="index.html" class="active">Resumen <span>de Proyectos de Título</span></a>
+            <a href="profes.html"><span>Proyectos agrupados por </span>Profesor(a) Guía</a>
+            <a href="titulos.html"><span>Proyectos agrupados por </span>Título Profesional</a>
+            <a href="semestres.html"><span>Proyectos agrupados por </span>Semestre</a>
+        </nav>
+        <header>
+            <h1>Resumen de Proyectos de Título</h1>
+            <p>Estas páginas ofrecerán información de los Proyectos de Título ya aprobados del actual programa de pregrado en <em>Diseño de la Universidad de Chile</em>, programa vigente desde el año 2019. La ofrecerán, a futuro, por lo que se explica en los dos párrafos que siguen.</p>
+    
+            <p>Los datos agrupan <em>207 proyectos aprobados</em> por <a href="profes.html">Profesor(a) Guía</a>, <a href="titulos.html">Título Profesional</a> y <a href="semestres.html">Semestre</a>, que ya son cuantitativamente reales, necesitan de un complemento cualitativo que será resuelto por los estudiantes del curso electivo ya referido (hasta el martes 13 de mayo).</p>
+        </header>
+        <main>
+            <article>
+                <h2><em>Multi-set bar chart</em> generado con <a href="https://app.rawgraphs.io/" target="_blank"><em>RAW</em>Graphs 2.0</a></h2>
+                <object data="viz/multi-set_bar_chart.svg" type="image/svg+xml"></object> 
+                <p><em>¿Qué se visualiza?</em> El color lila representa los alumnos que aprobaron título, mientras que el morado nos muestra los reprobados. </p>
+                <p</p>
+            </article> 
+            <article>
+                <h2><em>Alluvial diagram</em> generado con <a href="https://app.rawgraphs.io/" target="_blank"><em>RAW</em>Graphs 2.0</a></h2>
+                <object data="viz/alluvial_diagram.svg" type="image/svg+xml"></object> 
+                <p><em>¿Qué se visualiza?</em> Los Diseñadores son pocos, sea sin o con menciones. La calificación de Examen de Título más repetida es 6, seguida de 7. Hay 2 profesores que se llevan una porción importante de la calificación 7: Eduardo Castillo y Rubén Jacob.</p>
+            </article> 
+            <article>
+                <h2><em>Box plot</em> generado con <a href="https://app.rawgraphs.io/" target="_blank"><em>RAW</em>Graphs 2.0</a></h2>
+                <object data="viz/box_plot.svg" type="image/svg+xml"></object>                
+                <p><em>¿Qué se visualiza?</em> Con <a href="https://datavizcatalogue.com/ES/metodos/diagrama_cajas_y_bigotes.html">diagrama cajas y bigotes</a> podemos ver distribución y rangos. A la vista quedan los extremos, los cuartiles y una indicación respecto de la simetría de la distribución en una mediana que debería estar al centro del rectángulo. Vemos que la mención en Visualidad y Medios podría ser la mejor calificada: Mejor por sus números con mayor distribución y simetría.</p>
+            </article> 
+            <article>
+                <h2><em>Bubble Chart</em> generado con <a href="https://app.rawgraphs.io/" target="_blank"><em>RAW</em>Graphs 2.0</a></h2>
+                <object data="viz/bubble_chart.svg" type="image/svg+xml"></object>
+                <p><em>¿Qué se visualiza?</em> No es necesario repetir la explicación que ya pudieron leer en el <a href="https://github.com/profesorfaco/troncal/tree/main/clase-08">README.md de la clase de hoy</a>. La diferencia con lo que allá pudieron leer es que acá están todas las calificaciones de malla actual, no sólo las de exámenes de título del segundo semestre del año 2024. Otra diferencia es que aquí se usa un poco de transparencia en los circulos, lo que hace que las coincidencias parezcan círculos más saturados y menos luminosos, cuando son, ralmente, un círculo sobre otro.</p>    
+                <p>Lo que se le pueda reclamar a este gráfico es la cantidad de espacio que utiliza cuando los valores de eje X e Y son los mismos (y uno quiere mantener la proporción)</p>                            
+            </article>
+            <article>
+                <h2><em>Slope Chart</em> generado con <a href="https://app.rawgraphs.io/" target="_blank"><em>RAW</em>Graphs 2.0</a></h2>
+                <object data="viz/slope_chart.svg" type="image/svg+xml"></object>
+                <p><em>¿Qué se visualiza?</em> Podemos ver detalles de algo ya visto en el Bubble Chart. Porque en lugar de ver la correlación general, vemos los detalles de la correlación entre los pares de calificaciones. Buena es la línea yendo de 7 a 7 (pendiente nula), pero mejor es la línea que sube desde la primera a la segunda calificación, como la que partiendo del 5.3 llega al 7 (pendiente positiva). Mala es la línea que bajó de 6.9 a 4 (pendiente negativa).</p> 
+                <p>Quizá convenga implementar una de estas visualizaciones en los <a href="profes.html">Proyectos agrupados por Profesor(a) Guía</a> 🤔</p>
+            </article> 
+        </main>
+        <footer>
+            <p>
+                <small>
+                    <a href="https://github.com/profesorfaco/troncal" target="_blank">Diseño y visualización de información</a> | Este ejercicio, preparado por
+                    <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/profesorfaco">profesorfaco</a>, es publicado bajo licencia
+                    <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-NC 4.0</a>
+                </small>
+            </p>
+        </footer>
+    </body>
+</html>
